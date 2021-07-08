@@ -100,4 +100,14 @@ notes_even h1
     background-color:coral;
     font-family: cursive;
     font-size: 12px;
+    width:40%;
 }
+.notes_home
+{
+    
+    background-color:chartreuse;
+    font-family: cursive;
+    width:60%;
+    
+}
+    
