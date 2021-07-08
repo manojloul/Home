@@ -101,13 +101,12 @@ notes_even h1
     font-family: cursive;
     font-size: 12px;
     width:40%;
+    height:50%;
 }
 .notes_home
 {
-    
     background-color:chartreuse;
     font-family: cursive;
-    width:60%;
-    
+    width:60%;   
 }
     
